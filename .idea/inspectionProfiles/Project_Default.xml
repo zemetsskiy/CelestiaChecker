@@ -1,0 +1,97 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="DuplicatedCode" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <Languages>
+        <language minSize="591" name="JavaScript" />
+      </Languages>
+    </inspection_tool>
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="21">
+            <item index="0" class="java.lang.String" itemvalue="nobr" />
+            <item index="1" class="java.lang.String" itemvalue="noembed" />
+            <item index="2" class="java.lang.String" itemvalue="comment" />
+            <item index="3" class="java.lang.String" itemvalue="noscript" />
+            <item index="4" class="java.lang.String" itemvalue="embed" />
+            <item index="5" class="java.lang.String" itemvalue="script" />
+            <item index="6" class="java.lang.String" itemvalue="v-text-field" />
+            <item index="7" class="java.lang.String" itemvalue="v-icon" />
+            <item index="8" class="java.lang.String" itemvalue="v-spacer" />
+            <item index="9" class="java.lang.String" itemvalue="v-toolbar" />
+            <item index="10" class="java.lang.String" itemvalue="v-app" />
+            <item index="11" class="java.lang.String" itemvalue="v-toolbar-title" />
+            <item index="12" class="java.lang.String" itemvalue="v-menu" />
+            <item index="13" class="java.lang.String" itemvalue="v-list-tile" />
+            <item index="14" class="java.lang.String" itemvalue="v-list-tile-title" />
+            <item index="15" class="java.lang.String" itemvalue="v-list" />
+            <item index="16" class="java.lang.String" itemvalue="v-layout" />
+            <item index="17" class="java.lang.String" itemvalue="v-data-table" />
+            <item index="18" class="java.lang.String" itemvalue="v-alert" />
+            <item index="19" class="java.lang.String" itemvalue="v-btn" />
+            <item index="20" class="java.lang.String" itemvalue="sidebar" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="26">
+            <item index="0" class="java.lang.String" itemvalue="pytest" />
+            <item index="1" class="java.lang.String" itemvalue="numpy" />
+            <item index="2" class="java.lang.String" itemvalue="dlib" />
+            <item index="3" class="java.lang.String" itemvalue="certifi" />
+            <item index="4" class="java.lang.String" itemvalue="urllib3" />
+            <item index="5" class="java.lang.String" itemvalue="torch" />
+            <item index="6" class="java.lang.String" itemvalue="torchvision" />
+            <item index="7" class="java.lang.String" itemvalue="setuptools" />
+            <item index="8" class="java.lang.String" itemvalue="pytest-cov" />
+            <item index="9" class="java.lang.String" itemvalue="altgraph" />
+            <item index="10" class="java.lang.String" itemvalue="memory-profiler" />
+            <item index="11" class="java.lang.String" itemvalue="pyinstaller" />
+            <item index="12" class="java.lang.String" itemvalue="pywin32" />
+            <item index="13" class="java.lang.String" itemvalue="PyYAML" />
+            <item index="14" class="java.lang.String" itemvalue="psycopg2" />
+            <item index="15" class="java.lang.String" itemvalue="cx-Freeze" />
+            <item index="16" class="java.lang.String" itemvalue="pefile" />
+            <item index="17" class="java.lang.String" itemvalue="psutil" />
+            <item index="18" class="java.lang.String" itemvalue="shiboken2" />
+            <item index="19" class="java.lang.String" itemvalue="pathtools" />
+            <item index="20" class="java.lang.String" itemvalue="watchdog" />
+            <item index="21" class="java.lang.String" itemvalue="future" />
+            <item index="22" class="java.lang.String" itemvalue="pywin32-ctypes" />
+            <item index="23" class="java.lang.String" itemvalue="lxml" />
+            <item index="24" class="java.lang.String" itemvalue="PySide2" />
+            <item index="25" class="java.lang.String" itemvalue="argh" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E501" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N802" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="crm.staff.models.Profile.*" />
+          <option value="src.Client" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
